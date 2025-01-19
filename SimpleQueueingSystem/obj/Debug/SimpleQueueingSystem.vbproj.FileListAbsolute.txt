@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.Form1.resources
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.Resources.resources
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\bin\Debug\SimpleQueueingSystem.exe.config
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\bin\Debug\SimpleQueueingSystem.exe
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\bin\Debug\SimpleQueueingSystem.pdb
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\bin\Debug\SimpleQueueingSystem.xml
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.exe
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.xml
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.pdb
+C:\Users\Lenovo\source\repos\SimpleQueueingSystem\SimpleQueueingSystem\obj\Debug\SimpleQueueingSystem.Form2.resources
